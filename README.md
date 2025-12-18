@@ -176,6 +176,7 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 | 63 | [n8n-nodes-useapi](https://www.npmjs.com/package/n8n-nodes-useapi) | Integrates multiple accounts for Midjourney, Riffusion, Mureka, Runway, MiniMax, InsightFaceSwap, Pi... | [@lvalics](https://github.com/lvalics) | 0.2.3 | 10,155 | 33 |
 | 72 | [n8n-nodes-vercel-ai-sdk-universal-temp](https://www.npmjs.com/package/n8n-nodes-vercel-ai-sdk-universal-temp) | Universal AI SDK integration for n8n nodes. | [@hypocrite](https://www.npmjs.com/~hypocrite) | 0.2.99 | 7,927 | 1 |
 | 95 | [n8n-nodes-github-copilot](https://www.npmjs.com/package/n8n-nodes-github-copilot) | Integrates GitHub Copilot with CLI, Chat API, and AI chat models including GPT-5, Claude, and Gemini... | [@hugodeco](https://github.com/hugodeco) | 3.38.26 | 5,474 | 3 |
+| 🆕 | [n8n-nodes-praisonai](https://www.npmjs.com/package/n8n-nodes-praisonai) | Run AI agents with PraisonAI - multi-agent orchestration framework for building and running AI agent workflows. | [@MervinPraison](https://github.com/MervinPraison) | 0.1.0 | - | 0 |
 
 
 ## 7. File & PDF Manipulation Nodes
