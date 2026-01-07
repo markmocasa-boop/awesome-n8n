@@ -222,6 +222,7 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 ## Useful Resources
 
 ### n8n Self‑Hosted
+- [n8n Install](https://github.com/kossakovsky/n8n-install) - One-command deployment with 30 AI tools (Ollama, Open WebUI, Supabase, Qdrant, etc.), auto HTTPS, and 300+ workflows
 - [Installing community nodes](https://docs.n8n.io/integrations/community-nodes/installation/)
 - [Installing and updating n8n in Docker](https://docs.n8n.io/hosting/installation/docker/)
 - [Web scraping in n8n](https://pixeljets.com/blog/web-scraping-in-n8n/)
