@@ -229,3 +229,8 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 - [Installing and updating n8n in Docker](https://docs.n8n.io/hosting/installation/docker/)
 - [Web scraping in n8n](https://pixeljets.com/blog/web-scraping-in-n8n/)
 - [n8n for developers](https://pixeljets.com/blog/n8n/)
+
+### Compatible MCP Servers
+The [n8n-nodes-mcp](https://www.npmjs.com/package/n8n-nodes-mcp) community node (#4 above) lets n8n connect to any MCP-compatible server via SSE. Below are popular MCP servers that work with n8n:
+
+- [Taskade MCP Server](https://github.com/taskade/mcp) – 62+ tools for project management, tasks, docs, and AI agents. Connect via SSE endpoint (`npx @taskade/mcp-server --http --token YOUR_KEY`).
